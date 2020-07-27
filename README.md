@@ -1,0 +1,2 @@
+# pentago
+Console game pentago
