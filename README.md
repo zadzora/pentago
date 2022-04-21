@@ -7,9 +7,7 @@ Console game pentago
 <p>------------------------</p>
 
 <div id="images" style="white-space: nowrap;">
-    <img src="https://github.com/zadzora/android-app/blob/main/app/src/main/res/photos/android-app1.jpg" width="256"/>
-    <img src="https://github.com/zadzora/android-app/blob/main/app/src/main/res/photos/android-app2.jpg" width="256"/>
-    <img src="https://github.com/zadzora/android-app/blob/main/app/src/main/res/photos/android-app3.jpg" width="256"/>
-    <img src="https://github.com/zadzora/android-app/blob/main/app/src/main/res/photos/android-app4.jpg" width="256"/>
-    <img src="https://github.com/zadzora/android-app/blob/main/app/src/main/res/photos/android-app5.jpg" width="256"/>
+    <img src="https://github.com/zadzora/pentago/blob/master/img/pentago1.png" width="256"/>
+    <img src="https://github.com/zadzora/pentago/blob/master/img/pentago2.png" width="256"/>
+    <img src="https://github.com/zadzora/pentago/blob/master/img/pentago3.png" width="256"/>
 </div>
